@@ -8,25 +8,8 @@ This is a WIP, so don't mind if there're any 404 links.
 
 ### Games
 
-- [Official Games](official.md)
-- [Ripoffs and Clones](clones.md)
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Official Games](official/index.md)
+- [Ripoffs and Clones](clones/index.md)
 
 ### Others
 
@@ -35,3 +18,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Externel Links
 
 [Where's My Water? Wiki](http://wheresmywater.fandom.com)
+
+[Download the games](https://docs.google.com/document/d/1dHHg6RGVcpwjwlAEHxOLMvaS0QvObMofEI0O9xCskq8/edit?usp=sharing)
