@@ -20,3 +20,5 @@ This is a WIP, so don't mind if there're any 404 links.
 [Where's My Water? Wiki](http://wheresmywater.fandom.com)
 
 [Download the games](https://docs.google.com/document/d/1dHHg6RGVcpwjwlAEHxOLMvaS0QvObMofEI0O9xCskq8/edit?usp=sharing)
+
+[Download Misc Content](https://mega.nz/folder/6RZiybBR#eRDcjoEvL082H5c4qjSXiQ)
